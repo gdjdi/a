@@ -1,0 +1,7 @@
+[proxy_list]
+
+# MyList
+google.com,
+*.google.com,
+translate.google.com,
+github.com,
