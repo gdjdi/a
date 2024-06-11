@@ -1,7 +1,6 @@
-[proxy_list]
+# 代理域名规则
 
-# MyList
-google.com,
-*.google.com,
-translate.google.com,
-github.com,
+.cp.cloudflare.com remoteproxy
+.google.com remoteproxy
+.translate.google.com remoteproxy
+.github.com remoteproxy
